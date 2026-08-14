@@ -1,6 +1,5 @@
-<!-- 🎨 這裡用 Banner 風格破題，帶有你的數位畫布與程式碼泳池概念 -->
-<h1 align="center">Hi there, I'm Yize 👋</h1>
-<h3 align="center">🎨 Blending Cybersecurity with Creative Canvas & Code 🏊‍♂️</h3>
+# Hi there, I'm Yize 👋
+### 🎨 Blending Cybersecurity with Creative Canvas & Code 🏊‍♂️
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Seeking_Cybersecurity_Co_op-blue?style=for-the-badge&logo=letsencrypt" />
@@ -9,8 +8,8 @@
 
 ---
 
-### 💻 Tech Stack & Digital Palette (我的技術調色盤)
-這裡是我在資安、開發與資通信領域經常使用的「顏料」：
+### 💻 Tech Stack & Digital Palette
+Here are the core tools and languages I work with:
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2F++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -24,15 +23,15 @@
 
 ---
 
-### 🏊‍♂️ In the Pool & On the Canvas (生活與興趣)
-當我不在終端機前分析系統漏洞或寫程式時，你通常可以在這些地方找到我：
-* 🏊‍♂️ **Swimming:** 保持思緒清晰的最好方式。
-* 🏸 **Badminton:** 享受快節奏的對決與反應訓練。
-* 🎨 **Painting:** 用畫筆探索色彩與創造力——這也培養了我對細節的敏銳度。
+### 🏊‍♂️ In the Pool & On the Canvas
+When I'm not behind a terminal analyzing system vulnerabilities or writing code, you can usually find me here:
+* 🏊‍♂️ **Swimming:** Keeping my mind clear and focused.
+* 🏸 **Badminton:** Enjoying fast-paced matches and quick reflexes.
+* 🎨 **Painting:** Exploring color and creativity on canvas—which helps sharpen my eye for detail in problem-solving.
 
 ---
 
-### 📊 GitHub Stats (泳池計分板)
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yize-c&show_icons=true&theme=radical&hide_border=true" alt="Yize's GitHub Stats" />
 </p>
