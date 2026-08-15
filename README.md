@@ -29,7 +29,9 @@ Here are the core tools and languages I work with:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </p>
+
 ---
+
 ### 🏊‍♂️ In the Pool & On the Canvas
 
 When I'm not behind a terminal analyzing system vulnerabilities or writing code, you can usually find me here:
