@@ -46,8 +46,8 @@ When I'm not behind a terminal analyzing system vulnerabilities or writing code,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yize-c&show_icons=true&theme=radical&hide_border=true" alt="Yize's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yize-c&show_icons=true&theme=radical&hide_border=true" alt="Yize's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yize-c&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yize-c&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
