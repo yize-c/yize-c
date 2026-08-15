@@ -29,17 +29,7 @@ Here are the core tools and languages I work with:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </p>
-
 ---
-
-### 🚀 Key Projects
-
-* **[Secure Messaging Platform](https://github.com/yize-c)**: Built an encrypted communication system using ECDH key exchange and AES-256-GCM, complete with 2FA, GitHub login, and role-based access control.
-* **[IoT Network Intrusion Detection System](https://github.com/yize-c)**: Collaborated in a team of six to detect abnormal IoT traffic using an autoencoder model and K-means clustering.
-* **[Dependency Security Analyzer](https://github.com/yize-c)**: Developed a CLI tool to scan Python dependencies against the OSV vulnerability database with a CVSS-based scoring system.
-
----
-
 ### 🏊‍♂️ In the Pool & On the Canvas
 
 When I'm not behind a terminal analyzing system vulnerabilities or writing code, you can usually find me here:
