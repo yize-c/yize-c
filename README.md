@@ -1,5 +1,5 @@
-# Hi there, I'm Yize 👋
-### 🎨 Blending Cybersecurity with Creative Canvas & Code 🏊‍♂️
+<h1 align="center">Hi there, I'm Yi-Ze 👋</h1>
+<h3 align="center">🎨 Blending Cybersecurity with Creative Canvas & Code 🏊‍♂️</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Seeking_Cybersecurity_Co_op-blue?style=for-the-badge&logo=letsencrypt" />
@@ -8,7 +8,14 @@
 
 ---
 
+### 👨‍💻 About Me
+
+Graduate student in **Telecommunications and Information Security** at the University of Victoria, with a solid foundation in software development and database administration. I'm passionate about building authentication systems, securing infrastructure, and bridging software engineering with system defense.
+
+---
+
 ### 💻 Tech Stack & Digital Palette
+
 Here are the core tools and languages I work with:
 
 <p align="center">
@@ -19,23 +26,36 @@ Here are the core tools and languages I work with:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </p>
+
+---
+
+### 🚀 Key Projects
+
+* **[Secure Messaging Platform](https://github.com/yize-c)**: Built an encrypted communication system using ECDH key exchange and AES-256-GCM, complete with 2FA, GitHub login, and role-based access control.
+* **[IoT Network Intrusion Detection System](https://github.com/yize-c)**: Collaborated in a team of six to detect abnormal IoT traffic using an autoencoder model and K-means clustering.
+* **[Dependency Security Analyzer](https://github.com/yize-c)**: Developed a CLI tool to scan Python dependencies against the OSV vulnerability database with a CVSS-based scoring system.
 
 ---
 
 ### 🏊‍♂️ In the Pool & On the Canvas
+
 When I'm not behind a terminal analyzing system vulnerabilities or writing code, you can usually find me here:
+
 * 🏊‍♂️ **Swimming:** Keeping my mind clear and focused.
 * 🏸 **Badminton:** Enjoying fast-paced matches and quick reflexes.
-* 🎨 **Painting:** Exploring color and creativity on canvas—which helps sharpen my eye for detail in problem-solving.
+* ✏️ **Sketching:** Exploring line and detail — which sharpens my eye for problem-solving.
+* 🎲 **Board Games:** Strategizing over a table with friends.
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yize-c&show_icons=true&theme=radical&hide_border=true" alt="Yize's GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yize-c&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
