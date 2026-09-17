@@ -2,7 +2,7 @@
 <h3 align="center">🎨 Blending Cybersecurity with Creative Canvas & Code 🏊‍♂️</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Seeking_Cybersecurity_Co_op-blue?style=for-the-badge&logo=letsencrypt" />
+  <img src="https://img.shields.io/badge/Status-Seeking_Co_op-blue?style=for-the-badge&logo=letsencrypt" />
   <img src="https://img.shields.io/badge/University-UVic_MEng-red?style=for-the-badge&logo=academia" />
 </p>
 
