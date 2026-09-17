@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-Graduate student in **Telecommunications and Information Security** at the University of Victoria, with a solid foundation in software development and database administration. I'm passionate about building authentication systems, securing infrastructure, and bridging software engineering with system defense.
+Graduate student in **Telecommunications and Information Security** at the University of Victoria, with a foundation in software development and database administration. Most of my projects so far have centered on authentication and access control, and I'm interested in how that connects to the rest of a system's design.
 
 ---
 
