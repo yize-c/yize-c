@@ -21,12 +21,25 @@ I build **security checks into CI/CD pipelines**: scanning dependencies for know
 
 ### 🚀 Featured Projects
 
-| Project | What it does | Tech |
-|---|---|---|
-| [**Dependency Security Analyzer**](https://github.com/yize-c/dependency-security-analyzer) | Scans Python dependencies for outdated packages and known CVEs, ranked by CVSS. Tested on 3 real open-source projects, where it flagged 194 known vulnerabilities and exposed 2 bugs I fixed | Python, pytest, Docker, Kubernetes, Jenkins, Terraform, AWS S3 |
-| [**SecureText E2EE Chat**](https://github.com/yize-c/securetext-e2ee-chat) | Terminal chat with end-to-end encryption (ECDH + AES-GCM), 2FA, OAuth login, and role-based access; the server only sees ciphertext. CI runs 22 tests, Bandit, and my dependency scanner on every push | Python, cryptography, GitHub Actions, Docker |
-| [**PostgreSQL Password Policy**](https://github.com/yize-c/postgresql-password-policy) | Password rules, login tracking and auto-lock after failed attempts, from my internship | PostgreSQL, C, Bash |
-| [**IoT Intrusion Detection**](https://github.com/yize-c/ECE597-Group6-ids) | Two-stage IDS for IoT traffic (autoencoder + XGBoost). Team project; I led the report and main-branch integration | Python, PyTorch, XGBoost |
+#### 🔍 [Dependency Security Analyzer](https://github.com/yize-c/dependency-security-analyzer)
+Scans Python dependencies for outdated packages and known CVEs, ranked by CVSS. Tested on 3 real open-source projects, where it flagged 194 known vulnerabilities and exposed 2 bugs I fixed.
+
+`Python` `pytest` `Docker` `Kubernetes` `Jenkins` `Terraform` `AWS S3`
+
+#### 🔐 [SecureText E2EE Chat](https://github.com/yize-c/securetext-e2ee-chat)
+Terminal chat with end-to-end encryption (ECDH + AES-GCM), 2FA, OAuth login, and role-based access; the server only sees ciphertext. CI runs 22 tests, Bandit, and my dependency scanner on every push.
+
+`Python` `cryptography` `GitHub Actions` `Docker`
+
+#### 🗄️ [PostgreSQL Password Policy](https://github.com/yize-c/postgresql-password-policy)
+Password rules, login tracking and auto-lock after failed attempts, from my internship.
+
+`PostgreSQL` `C` `Bash`
+
+#### 📡 [IoT Intrusion Detection](https://github.com/yize-c/ECE597-Group6-ids)
+Two-stage IDS for IoT traffic (autoencoder + XGBoost). Team project; I led the report and main-branch integration.
+
+`Python` `PyTorch` `XGBoost`
 
 ---
 
