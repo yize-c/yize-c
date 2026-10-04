@@ -23,6 +23,7 @@ Most of my projects center on authentication, access control and security toolin
 | Project | What it does | Tech |
 |---|---|---|
 | [**Dependency Security Analyzer**](https://github.com/yize-c/dependency-security-analyzer) | Scans Python dependencies for outdated packages and known CVEs, with a full CI/CD pipeline | Python, pytest, Docker, Jenkins, Kubernetes, Terraform, AWS S3 |
+| [**SecureText E2EE Chat**](https://github.com/yize-c/securetext-e2ee-chat) | Command-line client–server chat with end-to-end encryption, 2FA, OAuth login, and role-based access; the server only sees ciphertext | Python, cryptography (ECDH, AES-GCM), sockets, pyotp |
 | [**PostgreSQL Password Policy**](https://github.com/yize-c/postgresql-password-policy) | Password rules, login tracking and auto-lock after failed attempts, from my internship | PostgreSQL, C, Bash |
 | [**IoT Intrusion Detection**](https://github.com/yize-c/ECE597-Group6-ids) | Two-stage IDS for IoT traffic (autoencoder + XGBoost). Team project; I led the report and main-branch integration | Python, PyTorch, XGBoost |
 
