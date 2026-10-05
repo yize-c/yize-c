@@ -88,11 +88,9 @@ Two-stage IDS for IoT traffic (autoencoder + XGBoost). Team project; I led the r
 
 ---
 
-### 🏊 In the Pool & On the Canvas
+### 🎈 Off the Keyboard
 
-When I'm not behind a terminal analyzing system vulnerabilities or writing code, you can usually find me here:
-
-* 🏊 **Swimming:** Keeping my mind clear and focused.
-* 🏸 **Badminton:** Enjoying fast-paced matches and quick reflexes.
-* ✏️ **Sketching:** Exploring line and detail — which sharpens my eye for problem-solving.
-* 🎲 **Board Games:** Strategizing over a table with friends.
+![Swimming](https://img.shields.io/badge/🏊_Swimming-4FC3F7?style=for-the-badge)
+![Badminton](https://img.shields.io/badge/🏸_Badminton-81C784?style=for-the-badge)
+![Sketching](https://img.shields.io/badge/✏️_Sketching-FFB74D?style=for-the-badge)
+![Board Games](https://img.shields.io/badge/🎲_Board_Games-BA68C8?style=for-the-badge)
