@@ -90,7 +90,10 @@ Two-stage IDS for IoT traffic (autoencoder + XGBoost). Team project; I led the r
 
 ### 🎈 Off the Keyboard
 
-![Swimming](https://img.shields.io/badge/🏊_Swimming-4FC3F7?style=for-the-badge)
-![Badminton](https://img.shields.io/badge/🏸_Badminton-81C784?style=for-the-badge)
-![Sketching](https://img.shields.io/badge/✏️_Sketching-FFB74D?style=for-the-badge)
-![Board Games](https://img.shields.io/badge/🎲_Board_Games-BA68C8?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/🏊_Swimming-4FC3F7?style=for-the-badge" alt="Swimming" />
+  <img src="https://img.shields.io/badge/🏸_Badminton-81C784?style=for-the-badge" alt="Badminton" />
+  <img src="https://img.shields.io/badge/✏️_Sketching-FFB74D?style=for-the-badge" alt="Sketching" />
+  <img src="https://img.shields.io/badge/🎲_Board_Games-BA68C8?style=for-the-badge" alt="Board Games" />
+  <img src="https://img.shields.io/badge/🎣_Fishing_%28not_phishing%29-4DB6AC?style=for-the-badge" alt="Fishing (not phishing)" />
+</p>
