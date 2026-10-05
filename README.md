@@ -13,9 +13,9 @@
 
 Graduate student in **Telecommunications and Information Security** at the University of Victoria(**UVic**). Before that, I was a DBA intern at Taiwan Mobile.
 
-I build **security checks into CI/CD pipelines**: scanning dependencies for known CVEs, running static analysis, and testing every change before it ships. I also like testing my own tools on real projects. Running my dependency scanner on three open-source codebases exposed two bugs that I then fixed.
+I build **security checks into CI/CD pipelines**: scanning dependencies for known CVEs, running static analysis, and testing every change before it ships. I also like testing my own tools on real projects. Running my dependency scanner on three open-source codebases also exposed two bugs in my own code, which I fixed.
 
-🎯 Looking for a **Winter 2027 co-op** in **DevSecOps, QA Automation, or DevOps**.
+🎯 Looking for a co-op or internship in DevSecOps, DevOps, or QA, between Winter and Fall 2027.
 
 ---
 
