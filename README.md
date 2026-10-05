@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Yize 👋</h1>
-<h3 align="center">🎨 Blending Cybersecurity with Creative Canvas & Code 🏊</h3>
+<h3 align="center">🎣 Catching bugs before they catch you</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Seeking_Winter_2027_Co_op-blue?style=for-the-badge&logo=letsencrypt" />
