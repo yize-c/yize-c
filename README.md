@@ -11,7 +11,7 @@
 
 ### 💻 About Me
 
-Graduate student in **Telecommunications and Information Security** at the University of Victoria, with a foundation in software development and database administration.
+Graduate student in **Telecommunications and Information Security** at the University of Victoria(**UVic**). Before that, I was a DBA intern at Taiwan Mobile.
 
 I build **security checks into CI/CD pipelines**: scanning dependencies for known CVEs, running static analysis, and testing every change before it ships. I also like testing my own tools on real projects. Running my dependency scanner on three open-source codebases exposed two bugs that I then fixed.
 
