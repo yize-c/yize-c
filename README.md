@@ -2,7 +2,7 @@
 <h3 align="center">🎣 Catching bugs before they catch you</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Seeking_Winter_2027_Co_op-blue?style=for-the-badge&logo=letsencrypt" />
+  <img src="https://img.shields.io/badge/Status-Seeking_Winter_2027_Co--op-blue?style=for-the-badge&logo=letsencrypt" />
   <img src="https://img.shields.io/badge/University-UVic_MEng-red?style=for-the-badge&logo=academia" />
   <img src="https://img.shields.io/badge/Focus-DevSecOps-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
