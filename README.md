@@ -1,6 +1,4 @@
 <h1 align="center">Hi there, I'm Yize 👋</h1>
-<h3 align="center">🎣 Catching bugs before they catch you</h3>
-
 <p align="center">
   <a href="https://yize-c.github.io"><img src="https://img.shields.io/badge/Portfolio-yize--c.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Status-Seeking_Winter_2027_Co--op-blue?style=for-the-badge&logo=letsencrypt" />
