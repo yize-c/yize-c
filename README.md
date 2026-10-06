@@ -2,6 +2,7 @@
 <h3 align="center">🎣 Catching bugs before they catch you</h3>
 
 <p align="center">
+  <a href="https://yize-c.github.io"><img src="https://img.shields.io/badge/Portfolio-yize--c.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Status-Seeking_Winter_2027_Co--op-blue?style=for-the-badge&logo=letsencrypt" />
   <img src="https://img.shields.io/badge/University-UVic_MEng-red?style=for-the-badge&logo=academia" />
   <img src="https://img.shields.io/badge/Focus-DevSecOps-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
